@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Registration App</string>
+    <string name="app_name">Registration Form</string>
+    <string name="intro">Welcome to Adveture Learning Club</string>
+    <string name="fullname">Full Name: </string>
+    <string name="gender">Gender: </string>
+    <string name="m">Male</string>
+    <string name="f">Female</string>
+    <string name="sid">Student ID: </string>
+    <string name="sch">School: </string>
+    <string name="email">Email: </string>
+    <string name="phone">Phone: </string>
+    <string name="register">Register</string>
+    <string name="image">Upload Image</string>
 </resources>
